@@ -1,6 +1,6 @@
 # Essential Software For Smartphones
 
-You can add more [here](https://github.com/Karthikeshwar1/Karthikeshwar1/issues) or by creating a [pull request](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request)
+You can add more [here](https://github.com/Karthikeshwar1/blog/issues) or by creating a [pull request](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request)
 
 Karthikeshwar's criteria for a software to be 'great':
 
