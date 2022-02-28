@@ -1,6 +1,6 @@
 # Peoples Of Times
 
-List of time periods and the major game-changing group of people of that time period.
+List of time periods and major game-changing groups of people of those time periods.
 
 | Times                                                        | Game-changers                                                                                                              | Their game-changing product   |
 | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
