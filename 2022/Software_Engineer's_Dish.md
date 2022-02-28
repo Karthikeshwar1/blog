@@ -18,14 +18,15 @@
 
 # Requirements / Ingredients
 
-| 1. Moth beans                           | 2. Green grams (Mung beans)                                                                                                          | 3. Groundnuts (Peanuts)   |
-| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| ![](images/dry-sprouted-moth-beans.jpg) | [![](images/128px-Sprouted-green-gram-cherupayaru.jpg)](https://commons.wikimedia.org/wiki/File:Sprouted-green-gram-cherupayaru.JPG) | ![](images/groundnut.jpg) |
-
-4. Corn
-5. Onion, Tomato, Cucumber, Carrot, Beetroot
-6. Salt, Chilli powder, Garam/Chat masala
-7. Lemon and Coriander leaves for topping
+|                                              |                                                                                                                                      |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 1. Moth beans                                | ![](images/dry-sprouted-moth-beans.jpg)                                                                                              |
+| 2. Green grams (Mung beans)                  | [![](images/128px-Sprouted-green-gram-cherupayaru.jpg)](https://commons.wikimedia.org/wiki/File:Sprouted-green-gram-cherupayaru.JPG) |
+| 3. Groundnuts (Peanuts)                      | ![](images/groundnut.jpg)                                                                                                            |
+| 4. Corn                                      |                                                                                                                                      |
+| 5. Onion, Tomato, Cucumber, Carrot, Beetroot |                                                                                                                                      |
+| 6. Salt, Chilli powder, Garam/Chat masala    |                                                                                                                                      |
+| 7. Lemon and Coriander leaves for topping    |                                                                                                                                      |
 
 <br>
 
