@@ -18,9 +18,9 @@
 
 # Requirements / Ingredients
 
-|                                              |                                                                                                                                      |
+|            Ingredients                                  | Info     |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 1. Moth beans                                | ![](images/dry-sprouted-moth-beans.jpg)                                                                                              |
+| 1. Moth beans                                | ![](images/dry-sprouted-moth-beans.jpg)     |
 | 2. Green grams (Mung beans)                  | [![](images/128px-Sprouted-green-gram-cherupayaru.jpg)](https://commons.wikimedia.org/wiki/File:Sprouted-green-gram-cherupayaru.JPG) |
 | 3. Groundnuts (Peanuts)                      | ![](images/groundnut.jpg)                                                                                                            |
 | 4. Corn                                      |                                                                                                                                      |
