@@ -2,7 +2,7 @@
 
 <br>
 
-- [Healthtalk](https://healthtalk.org/): Real People. Real life experiences
+- [Healthtalk](https://healthtalk.org/): Real People sharing their experiences of having different health conditions.
 - [OpenMD](https://openmd.com/directory): Directory of 750 Leading Health Sites
 - [Up To Date](https://www.uptodate.com/home): Evidence-based Clinical Decision Support
 - [British Medical Journal: Best Practices](https://bestpractice.bmj.com/info): Clinical decision support for health professionals
@@ -18,7 +18,7 @@
 - [Pixorize](https://pixorize.com/): Memorize medical knowledge with a cool interface
 - [MSD Manuals](https://www.msdmanuals.com/): The Trusted Provider of Medical Information since 1899
 - [Easy Auscultation](https://www.easyauscultation.com/): Heart and Lung Sounds
-- [Orthobullets](https://www.orthobullets.com/): A FREE LEARNING & COLLABORATION COMMUNITY FOR PHYSICIANS
+- [Orthobullets](https://www.orthobullets.com/): A free learning and collaborating community for physicians.
 
 
 <br>
