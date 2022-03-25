@@ -23,6 +23,34 @@
 
 <br>
 
+# Organizations
+
+Note: This list of organizations isn't comprehensive, it is a list of only the top websites with high web traffic.
+
+## National (India)
+
+- [IMA](https://www.ima-india.org/): Indian Medical Association
+  - [IMA Karnataka](https://imakarnataka.in/)
+- [NMC](https://www.nmc.org.in/): National Medical Commission (previously Medical Council of India)
+- [FOGSI](https://www.fogsi.org/): Federation of Obstetric and Gynaecological Societies of India
+  - [ICOG](https://icogonline.org/): Academic wing of FOGSI
+- [MCC](https://www.mcc.nic.in/): Medical Counselling Comittee
+
+## International
+
+- [WHO](https://www.who.int/): Who doesn't know WHO?
+- [MSF](https://www.doctorswithoutborders.org/): Médecins Sans Frontières or Doctors Without Borders (nonprofit)
+  - [MSF India](https://www.msfindia.in/)
+  - [MSF Org](https://www.msf.org/)
+- [MDM](https://www.medecinsdumonde.org/en): Médecins du Monde or Doctors of the World
+- [FIGO](https://www.figo.org/): International Federation of Gynaecology and Obstetrics
+- [IIRH](https://www.iirrh.org/): International Institute for Training and Research in Reproductive Health
+- [CDC](https://www.cdc.gov/): Centers for Disease Control and Prevention
+- [IMC](https://internationalmedicalcorps.org/): International Medical Corps (nonprofit)
+- [IMR](https://internationalmedicalrelief.org/): International Medical Relief (nonprofit)
+
+<br>
+
 # Adding to the list
 
 Want to add a resource to the list? Mail to karthikeshwar7087@gmail.com
