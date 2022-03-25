@@ -1,4 +1,10 @@
-# Best Medical Resources
+<h1 align="center">Best Medical Resources </h1>
+
+<h6 align="center">A concise and curated list of resources for healthcare professionals</h6>
+
+<br>
+
+# ✨ Top websites
 
 <br>
 
@@ -23,9 +29,11 @@
 
 <br>
 
-# Organizations
+# 🏛️ Organizations
 
 Note: This list of organizations isn't comprehensive, it is a list of only the top websites with high web traffic.
+
+<br>
 
 ## National (India)
 
@@ -51,6 +59,21 @@ Note: This list of organizations isn't comprehensive, it is a list of only the t
 
 <br>
 
+# 🧑‍💻 Want to dig deeper?
+
+<br>
+
+Here are links to research-oriented lists of resources
+
+- [Healthcare](https://github.com/kakoni/awesome-healthcare)
+- [Medical Research](https://github.com/Engineering-Course/Awesome-Medical-Research)
+- [Healthmetrics](https://github.com/leandromineti/awesome-healthmetrics)
+- [AI in Healthcare](https://github.com/medtorch/awesome-healthcare-ai)
+
+<br>
+
 # Adding to the list
+
+<br>
 
 Want to add a resource to the list? Mail to karthikeshwar7087@gmail.com
