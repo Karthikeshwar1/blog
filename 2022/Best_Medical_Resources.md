@@ -25,7 +25,6 @@
 - [MSD Manuals](https://www.msdmanuals.com/): The Trusted Provider of Medical Information since 1899
 - [Easy Auscultation](https://www.easyauscultation.com/): Heart and Lung Sounds
 - [Orthobullets](https://www.orthobullets.com/): A free learning and collaborating community for physicians.
-
 - [NLM](https://www.nlm.nih.gov/): World’s largest biomedical library and a leader in research in computational health informatics.
 
 
