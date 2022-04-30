@@ -57,6 +57,12 @@ Note: This list of organizations isn't comprehensive, it is a list of only the t
 - [IMC](https://internationalmedicalcorps.org/): International Medical Corps (nonprofit)
 - [IMR](https://internationalmedicalrelief.org/): International Medical Relief (nonprofit)
 
+## Medical classification
+
+- [about Medical classification](https://en.wikipedia.org/wiki/Medical_classification)
+- [ICD](https://icd.who.int/en): International Statistical Classification of Diseases and Related Health Problems (or just International Classification of Diseases)
+  - [ICD WHO page](https://www.who.int/standards/classifications/classification-of-diseases)
+
 <br>
 
 # 🧑‍💻 Want to dig deeper?
