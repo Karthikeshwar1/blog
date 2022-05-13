@@ -1,4 +1,4 @@
-<h1 align=center> The Healthcare Industry </h1>
+<h1 align=center> The Healthcare Industry Participants </h1>
 
 <br>
 
