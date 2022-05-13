@@ -1,6 +1,6 @@
 <h1 align=center> The Healthcare & Life Sciences Industry </h1>
 
-<h2 align=center> About Industry Participants <h2>
+<h2 align=center> About Industry Participants </h2>
 
 <br>
   
