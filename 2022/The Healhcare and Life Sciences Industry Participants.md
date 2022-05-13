@@ -1,4 +1,4 @@
-<h1 align=center> The Healthcare Industry Participants </h1>
+<h1 align=center> The Healthcare & Life Sciences Industry </h1>
 
 <br>
 
@@ -6,28 +6,28 @@
 
 ### Contents
 
-[1. Healthcare Providers](#healthcare-providers)
+[1. Healthcare Providers](#-healthcare-providers)
 
-[2. Healthcare Payers](#healthcare-payers)
+[2. Healthcare Payers](#-healthcare-payers)
 
-[3. Biopharma Companies](#biopharma-companies)
+[3. Biopharma Companies](#-biopharma-companies)
 
-[4. Medical Technology Companies](#medical-technology-companies)
+[4. Medical Technology Companies](#-medical-technology-companies)
 
-[5. Governments](#governments)
+[5. Governments](#-governments)
 
-[6. Not-For-Profit Organizations](#not-for-profit-organizations)
+[6. Not-For-Profit Organizations](#-not-for-profit-organizations)
 
-[7. Consumer Technology Companies](#consumer-technology-companies)
+[7. Consumer Technology Companies](#-consumer-technology-companies)
 
 
 <br>
 
-## Healthcare Providers
+## 👩‍⚕ Healthcare Providers
 
 Individuals and institutions that directly provide medical care to patients
 
-### 1. Medical Professionals
+### 1. Medical Professionals 👨‍⚕️
 
 <details open>
   <summary>
@@ -61,7 +61,7 @@ Individuals and institutions that directly provide medical care to patients
 
 <br>
 
-### 2. Health Care Facilities
+### 2. Health Care Facilities 🏥
 
 <h6> Healthcare facility types: </h6>
 
@@ -122,7 +122,7 @@ Individuals and institutions that directly provide medical care to patients
 
 <!-- <br> -->
 
-### 3. Home Health Providers
+### 3. Home Health Providers 🏠
 
 * Provide services to patients in their homes
 * Include Home health agencies, home care agencies, hospice care providers, staffing agencies
@@ -130,7 +130,7 @@ Individuals and institutions that directly provide medical care to patients
 <br>
 
 
-## Healthcare Payers
+## 💰 Healthcare Payers
 
 * Organizations that pay for healthcare
 * Some healthcare costs are payed directly by patients (or absorbed by providers. But most healthcare costs are payed by third-party payers, which include:
@@ -141,7 +141,7 @@ Individuals and institutions that directly provide medical care to patients
 <br>
 
 
-## Biopharma Companies
+## 🧬 Biopharma Companies
 
 * Provide products and services to improve medical care, including drugs and diagnostic tests
 * Include:
@@ -151,7 +151,7 @@ Individuals and institutions that directly provide medical care to patients
 <br>
 
 
-## Medical Technology Companies
+## 🔬 Medical Technology Companies
 
 * Provide products and services to support healthcare providers, including diagnostic imaging equipment, implants, prosthetics and information technology (IT)
 * Include:
@@ -161,7 +161,7 @@ Individuals and institutions that directly provide medical care to patients
 <br>
 
 
-## Governments
+## 🏛 Governments
 
 * Depending on the type of healthcare system, (national/regional/local) governments may serve as:
   * Industry regulators
@@ -172,7 +172,7 @@ Individuals and institutions that directly provide medical care to patients
 <br>
 
 
-## Not-For-Profit Organizations
+## 🏢 Not-For-Profit Organizations
 
 * Many NPOs participate in healthcare and life sciences industry to advance medical research and expand medical care for patients
 * Include:
@@ -182,7 +182,7 @@ Individuals and institutions that directly provide medical care to patients
 <br>
 
 
-## Consumer Technology Companies
+## 🏙 Consumer Technology Companies
 
 * These companies have been attracted to healthcare industry because of its long-term growth potential
 * E.g. Google, Apple, IBM
