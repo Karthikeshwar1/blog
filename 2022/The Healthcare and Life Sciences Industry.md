@@ -4,6 +4,18 @@
 
 <br>
 
+### Contents
+
+[1. Industry Participants](#industry-participants)
+
+[2. Customers](#customers)
+
+[3. Healthcare systems](#healthcare-systems)
+
+[4. Industry challenges](#industry-challenges)
+
+<br>
+
 # Industry Participants
 
 _Main article: 
