@@ -6,7 +6,13 @@
 
 ### Contents
 
+[1. Services Provided](#services-provided)
 
+[2. Healthcare Provider Executives](#healthcare-provider-executives)
+
+[3. Provider Technology](#provider-technology)
+
+[4. Industry Challenges](#industry-challenges)
 
 <br>
 
@@ -158,3 +164,65 @@ Important executives:
 
 <br>
 
+## Industry Challenges
+
+	• Pressure on profitability
+	• Cost control
+		○ To lower healthcare costs, payers are:
+			§ Lowering reimbursement rates to providers
+			§ Developing alternative payment models
+			§ Rationing patient access to healthcare
+			§ Increasing patient cost-sharing
+		○ These measures put pressure on provider profitability. In response, providers try to:
+			§ Control costs
+			§ Grow revenue
+		○ Providers are employing various measures to overcome all of their challenges
+	• Revenue growth
+	• Regulatory compliance
+		○ Most important regulations and mandates:
+			§ Cybersecurity (regulations such as HIPAA, GDPR)
+			§ Value-based care initiatives
+				□ Traditionally, it has been fee-for-service (FFS), which has disadvantages
+				□ Value-based care initiatives increases the incentives for providers to provide quality healthcare. Providers are payed based on patient outcomes, rather than the number of tests and treatments
+				□ Value-based reimbursement methods require providers to meet payer-mandated metrics for quality, efficiency and patient safety
+				□ Opinion-based medicine -> Evidence-based medicine
+				□ Volume-based reimbursement -> Value-based reimbursement
+				□ In the US, Medicare Access and CHIP Reauthorization Act (MACRA) requires Centers for Medicare and Medicaid (CMS) to manage a quality payment incentive program that rewards value and outcomes
+				□ CMS does this through:
+					® Merit-based Incentive Payment System (MIPS)
+					® Alternative Payment Models (APMs)
+						◊ Bundled payments
+						◊ Accountable Care Organizations (ACOs)
+	• Improving patient experience
+		○ Drivers for improving patient experience:
+			§ Growing payer emphasis on patient experience as a part of quality care
+			§ Increasing engagement by patients in their own healthcare
+			§ A desire by providers to strengthen patient loyalty through a sense of membership
+		○ Strategies:
+			§ Employing portals and other self-service healthcare tools
+			§ Easier access to health information
+			§ Training staff to improve communication and responsiveness
+			§ Implementing analytics to better understand customer needs and personalize interactions
+			§ Using telemedicine
+	• Shortage of healthcare workers
+		○ Reasons:
+			§ Emerging markets
+			§ Aging populations
+		○ Impact:
+			§ Longer wait times to receive medical care
+			§ Reduced access to care, mostly in rural areas
+			§ Increased focus on alternative delivery models, such as retail clinics and telemedicine
+	• Pandemic (COVID-19)
+		○ Impact:
+			§ Scramble to get extra beds, masks, oxygen, etc.
+			§ Expand hospital capacities
+			§ Use non-medical facilities and erect temporary field hospitals
+			§ Call for additional healthcare workers, including retired medical professionals and medical students
+		○ Providers have suffered financial implications, due to:
+			§ Cost to treat COVID-19 soared
+			§ Revenue fell, because healthcare facilities limit non-emergency surgeries to free up beds for COVID-19 patients; and patients postpone medical appointments to avoid virus contact
+		○ Pandemic forced provides for implementing more innovative ways of providing medical care:
+			§ Use of telemedicine has increased
+			§ In-home screenings have increased (self-testing/diagnosis at home)
+
+<br>
