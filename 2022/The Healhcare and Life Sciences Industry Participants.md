@@ -6,19 +6,19 @@
 
 ### Contents
 
-[1. Healthcare Providers](#-healthcare-providers)
+[1. 👩‍⚕️ Healthcare Providers](#-healthcare-providers)
 
-[2. Healthcare Payers](#-healthcare-payers)
+[2. 💰 Healthcare Payers](#-healthcare-payers)
 
-[3. Biopharma Companies](#-biopharma-companies)
+[3. 🧬 Biopharma Companies](#-biopharma-companies)
 
-[4. Medical Technology Companies](#-medical-technology-companies)
+[4. 🔬 Medical Technology Companies](#-medical-technology-companies)
 
-[5. Governments](#-governments)
+[5. 🏛 Governments](#-governments)
 
-[6. Not-For-Profit Organizations](#-not-for-profit-organizations)
+[6. 🏢 Not-For-Profit Organizations](#-not-for-profit-organizations)
 
-[7. Consumer Technology Companies](#-consumer-technology-companies)
+[7. 🏙 Consumer Technology Companies](#-consumer-technology-companies)
 
 
 <br>
