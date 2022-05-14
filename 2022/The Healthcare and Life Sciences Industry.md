@@ -7,7 +7,7 @@
 ### Articles in this series
 
 | 1. An Overview (current page) |
-| --- |
+| ----- |
 | 2. [About Industry Participants](https://github.com/Karthikeshwar1/blog/blob/main/2022/The%20Healthcare%20and%20Life%20Sciences%20Industry%20Participants.md) |
 | 3. [About Healthcare Providers](https://github.com/Karthikeshwar1/blog/blob/main/2022/The%20Healthcare%20Providers.md) |
 | 4. [About Healthcare Payers and Plans](https://github.com/Karthikeshwar1/blog/blob/main/2022/The%20Healthcare%20Payers%20and%20Plans.md)
