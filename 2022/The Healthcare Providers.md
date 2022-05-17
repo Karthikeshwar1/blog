@@ -6,17 +6,17 @@
 
 ### Contents
 
-[1. Services Provided](#services-provided)
+[1. 👨‍⚕️ Services Provided](#%EF%B8%8F-services-provided)
 
-[2. Healthcare Provider Executives](#healthcare-provider-executives)
+[2. 👩‍💼 Healthcare Provider Executives](#-healthcare-provider-executives)
 
-[3. Provider Technology](#provider-technology)
+[3. 🩺 Provider Technology](#-provider-technology)
 
-[4. Industry Challenges](#industry-challenges)
+[4. 🤔 Industry Challenges](#-industry-challenges)
 
 <br>
 
-## Services Provided
+## 👨‍⚕️ Services Provided
 
 <details> <summary>
   <h4> 1. Primary care: </h4>
@@ -89,7 +89,7 @@
  
  <br>
  
- ## Healthcare Provider Executives
+ ## 👩‍💼 Healthcare Provider Executives
 
 Important executives:
 * **Chief of Staff/Medical Director**
@@ -130,11 +130,11 @@ Important executives:
 
 <br>
 
-## Provider Technology
+## 🩺 Provider Technology
 
-* Medical technology: 
+#### Medical technology: 
   * tech used to diagnose, monitor and treat medical conditions
-* Information technology used by healthcare providers: 
+#### Information technology used by healthcare providers: 
   * different from MedTech
   * Types:
     * Clinical information management system or Clinical decision support systems
@@ -164,7 +164,7 @@ Important executives:
 
 <br>
 
-## Industry Challenges
+## 🤔 Industry Challenges
 
 	• Pressure on profitability
 	• Cost control
