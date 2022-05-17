@@ -6,19 +6,19 @@
 
 ### Contents
 
-[1. Customers and Payers](#customers-and-payers)
+[1. 👨 Customers and Payers](#-customers-and-payers)
 
-[2. Healthcare Plans](#healthcare-plans)
+[2. 📄 Healthcare Plans](#-healthcare-plans)
 
-[3. Claims Processing](#claims-processing)
+[3. 👨‍💻 Claims Processing](#-claims-processing)
 
-[4. Healthcare Payer Executives](#healthcare-payer-executives)
+[4. 👩‍💼 Healthcare Payer Executives](#-healthcare-payer-executives)
 
-[5. Payers' Industry Challenges](#payers-industry-challenges)
+[5. 🤔 Payers' Industry Challenges](#-payers-industry-challenges)
 
 <br>
 
-## Customers and Payers
+## 👨 Customers and Payers
 
 * In healthcare & life sciences industry, the user and purchaser of healthcare services aren't usually the same.
 * Healthcare payers serve:
@@ -27,13 +27,13 @@
     * Secondary beneficiary: Those who receive same benefits as primary one because of their relationship with a primary beneficiary (spouse or child below a certain age)
   * **Sponsors:** Sometimes companies contract with third-party companies to offer healthcare services to their employees, which is called sponsoring
 * Healthcare payers include:
-  1. Providers
-  2. Patients
+	1. Providers
+	2. Patients
 	3. Third-party payers
 
 <br>
 
-## Healthcare Plans
+## 📄 Healthcare Plans
 
 * Could be:
   1. Group health insurance plans (e.g. employee health insurance)
@@ -53,7 +53,7 @@
 
 <br>
 
-## Claims Processing
+## 👨‍💻 Claims Processing
 
 * Also called Claims Adjudication
 * It's the insurance company's procedure to check the claim requests for adequate information, validation, justification and authenticity
@@ -81,7 +81,7 @@
 
 <br>
 
-## Healthcare Payer Executives
+## 👩‍💼 Healthcare Payer Executives
 
 ### Private Payers
   * **EVP, Marketing and Products:** Responsible for designing healthcare plans that address member needs
@@ -98,7 +98,7 @@
 
 <br>
 
-## Payers' Industry Challenges
+## 🤔 Payers' Industry Challenges
 
 * Lowering costs
   * Rationing healthcare
