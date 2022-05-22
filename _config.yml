@@ -7,4 +7,5 @@ description: A site where Karthikeshwar shares his thoughts
 # social links
 # twitter_username: nschloe
 github_username: Karthikeshwar1
-# show_excerpts: true # set to false to remove excerpts on the homepage
+
+show_excerpts: false # set to false to remove excerpts on the homepage
