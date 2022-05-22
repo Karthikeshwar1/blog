@@ -1,3 +1,9 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
+
 <h1 align=center> The Healthcare & Life Sciences Industry </h1>
 
 <h2 align=center> An Overview </h2>
