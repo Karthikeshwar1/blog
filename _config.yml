@@ -2,6 +2,9 @@ title: Karthikeshwar
 author: Karthikeshwar
 theme: minima
 
+header_pages:
+  - about.md
+
 email: karthikeshwar7087@gmail.com
 description: A site where Karthikeshwar shares his thoughts
 # social links
