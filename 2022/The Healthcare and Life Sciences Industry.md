@@ -53,6 +53,21 @@ _Main article:
 
 * Patients are the primary customers
 * Healthcare providers are the customers for medical technology manufacturers
+* Patients need healthcare for:
+ 	* **Injuries**
+		* Physical damage caused by accidents or violence.
+		* Include bone fractures, burns and poisoning
+	* **Disabilities**
+		* Physical/mental conditions which limit a patient's senses/movements/activities
+	* **Reproductive health**
+		* Related to pregnancy, childbirth and other sexual health needs
+	* **Diseases**
+		* broadly refers to any condition that impairs the normal functioning of the body
+		* Types: Infectious and Chronic
+	* **Mental disorders**
+		* behavioral or mental pattern that causes significant distress or impairment of personal functioning
+		* conditions that affect your thinking, feeling, mood, and behavior
+
 
 <br>
 
